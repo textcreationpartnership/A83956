@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands discoverer; or The levellers creed. Wherein is set forth, their great and unparralellʻd [sic] design against the twelve famods [sic] companies of the city of London, viz. The mercers. Grocers. Drapers. Marchant-taylors haberdashers. Goldsmiths cloth-workers. Fishmongers. Vintners. And the rest. And all other trades, mysteries, arts and callings whatsoever, within the cities of London, Yorke, Lincolne, Glocester, Bristoll, Excester, with the rest of the market townes, corporations, and villages, within the territories of England, and domini- [sic] of Wales. Published by speciall authority, to undeceive the people, th ̄[sic] like being never heard of in all former ages.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83956</idno>
+            <idno type="STC">Wing E2960</idno>
+            <idno type="STC">Thomason E559_2</idno>
+            <idno type="STC">ESTC R201929</idno>
+            <idno type="EEBO-CITATION">99862411</idno>
+            <idno type="PROQUEST">99862411</idno>
+            <idno type="VID">165171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165171)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E559[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands discoverer; or The levellers creed. Wherein is set forth, their great and unparralellʻd [sic] design against the twelve famods [sic] companies of the city of London, viz. The mercers. Grocers. Drapers. Marchant-taylors haberdashers. Goldsmiths cloth-workers. Fishmongers. Vintners. And the rest. And all other trades, mysteries, arts and callings whatsoever, within the cities of London, Yorke, Lincolne, Glocester, Bristoll, Excester, with the rest of the market townes, corporations, and villages, within the territories of England, and domini- [sic] of Wales. Published by speciall authority, to undeceive the people, th ̄[sic] like being never heard of in all former ages.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Wharton; and are to be sold at the Royall Exchange in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Mercers. .. haberdashers." and "Goldsmiths .. the rest." are bracketed together on the title page.</note>
+                  <note>Annotation on Thomason copy: "June 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165171:1" rendition="simple:additions"/>
+            <p>ENGLANDS <hi>DISCOVERER; Or</hi> The Levellers Creed.</p>
+            <p>
+               <hi>Wherein is ſet forth,</hi> Their great and unparralell'd Deſign againſt the twelve fa<g ref="char:EOLhyphen"/>mods Companies of the City of <hi>London, viz.</hi>
+            </p>
+            <p>The
+<list>
+                  <item>Mercers.</item>
+                  <item>Grocers.</item>
+                  <item>Drapers.</item>
+                  <item>Marchant-Taplors</item>
+                  <item>Haberdaſhers.</item>
+                  <item>Goldſmiths</item>
+                  <item>Cloth-workers.</item>
+                  <item>Fiſhmongers.</item>
+                  <item>Vintners.</item>
+               </list> And the reſt.</p>
+            <p>And all other Trades, Myſteries, Arts and callings whatſoe<g ref="char:EOLhyphen"/>ver, within the Cities of London, Yorke, Lincolne, Gloceſter, Briſtoll, Exceſter, with the reſt of the Market townes, Corporations, and Villages, within the Territories of England, and Domini<g ref="char:EOLhyphen"/>of Wales.</p>
+            <p>
+               <hi>PVbliſhed by ſpeciall Authority, to undeceive the People, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like being never heard of in all former Ages.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>June 6</add> LONDON, Printed for <hi>G. Wharton;</hi> and are to be ſold at the Royall Exchange in Corn-hill. 1649</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165171:2"/>
+            <pb n="1" facs="tcp:165171:2"/>
+            <head>ENGLANDS Diſcovererer; Or, the Levellers CREED <hi>Wherein is ſet forth,</hi> Their dangerous and pernicious Stratagems, againſt the Liberties of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e people, Miniſtery and Magiſtracy, and their D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign to make a univerſall level<g ref="char:EOLhyphen"/>ling throughout the whole Nation.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Reat ſtones are not laid in the building, without ſome time and great labour, becauſe of their weight; but once placed, remain long: <hi>Charles</hi> King of <hi>Naples</hi> was ſurn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med <hi>Cun<g ref="char:EOLhyphen"/>ctator, Delayer,</hi> becauſe he ſtayed till oppor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>y <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as paſt; But <hi>Fabius</hi> the Shield of <hi>Rome,</hi> was ſo cal<g ref="char:EOLhyphen"/>le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cauſe he only ſtaid till opportunity was come. But I ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w come to a m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re parti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ular Diſcovery, viz. Till I <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w their Manifeſtation, I could not well tell, nor hardly gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, what (for men) in many things they would have the world think them to be. There (indeed) they profeſſe, that
+<pb n="2" facs="tcp:165171:3"/>they believe there is one eternall and omnipotent God, the Author and preſerver of all things in the world: and deny to be either Atheiſts or Antiſcripturiſts. But what Atheiſts for advantage and to ſerve his own turne. Whether there be not Hypocrifie here in their ſpeech; Let theſe things be noted from thoſe called Levellers.
+<list>
+                  <item>1. It is aſſerted by them, that Reaſon is God, and out of this reaſon came the whole creation.</item>
+                  <item>2. The immortality of the ſoul they flatly deny, and ſcoff at ſuch people as believe the ſouls imortallity.</item>
+                  <item>3. In the Levellers creed, there is no Jeſus Chriſt no con<g ref="char:EOLhyphen"/>ception, birth, life, death, burial, reſurrection, or exaltation of ſuch a one; no heaven nor hell, no Angel, good not bad; no reſurrection of the fleſh; for to take it ſo in the letter (they ſay) in a dream of our Preachers.</item>
+                  <item>4. All that we call the hiſtory of the Scripture is an idol for there is no other Adam, or Chriſt, Cain or Abel, Abra<g ref="char:EOLhyphen"/>ham, Jſaac, Jacob. Moſes, Canaanites, Amalekites, Philiſtins: but what is ſeen and felt within every man. Hence they ſay, the publique preachers have cheated the whole world, by telling us of a ſingle man, called Adam, that kil'd us by ea<g ref="char:EOLhyphen"/>ting a ſingle fruit.</item>
+                  <item>
+                     <p>5. By their principles men muſt leave of all teaching and inſtructing each other. There is no uſe of ſermons, Sacra<g ref="char:EOLhyphen"/>ments, or prayer, Preachers are the curſe, and the ſpreaders of the curſe, ſtanding ponds of ſtinking water; yea the zea<g ref="char:EOLhyphen"/>lous preachers, are no other then Judas, Traitors, Witches, Sorcerers, Deceivers, they and the people joyning together in publick worſhip is an abomination, gathering Congrega<g ref="char:EOLhyphen"/>tions Church-fellow-ſhip, and all other outward forms this (ſay the Levellers is to betray Chriſt into the hands of fleſh, a <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eceit of the Divell, the government of the beaſt, Antichriſtian captivity, and 'tis to be under the the tyrant
+<pb n="3" facs="tcp:165171:3"/>fleſh, a new bondage, a wrapping men in confuſion, the my<g ref="char:EOLhyphen"/>ſtery of iniquity, and only to hinder Chriſt the great Pro<g ref="char:EOLhyphen"/>phet fr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m riſing.</p>
+                     <p>It hath formerly been held, that religion, and the true wor<g ref="char:EOLhyphen"/>ſhip of God, is much for the ſafety &amp; proſperity of a Com<g ref="char:EOLhyphen"/>mon-wealth, and mens departure from the practice thereof and falling to hereticall, atheiſticall, and blaſphemous ways brings Gods curſe and plagus upon a nation: and indeed the Heathen thought ſo too, when God is neglected, the land is corrected.</p>
+                     <p>There is a City called Zaiton, in India, where they bring hot meats to their Idols, feeding their dumbe Gods with the ſmoake, and eating the meat shemſelves. Whatſoever theſe men profeſſe concerning One eternal and omnipotent God, yet, they ſerve him juſt as the heathens do their Idols, give him no meat, no worſhip, ſervice or Religious duty; all that he hath from them is only ſmoake, and fitly may it be named ſmoake, for in truth their principles are nothing elſe but the ſmoak of the bottomleſſe pit.</p>
+                  </item>
+                  <item>6. That they are Atheiſts and Antiſcripturiſts, or little better: men who regard not God, neither the Scriptures, nor any religion; it may be clearly ſeen by the argument of the people, which they call, the ſtandard and ultimate ſcope of their deſigns. Amongſt all their Propoſals and Article (whic are thirty at leaſt) there is not one thing propoſed, for the holding forth and furtherance of Gods publick worſhip and ſervice.</item>
+               </list>
+            </p>
+            <p>Now who knoweth not and beleeves except an Atheiſt, That Religion and the feare of God preſerves the ſo<g ref="char:EOLunhyphen"/>ciety of men among themſelve. It is the ſpeech of the Phi<g ref="char:EOLhyphen"/>loſopher in his Politiques, when he giveth a rule of Policy: Firſt, there muſt be a care of divine things, and that is the beſt Policy; for God loves ſuch moſt, who are carefull to ſerve him beſt.</p>
+            <pb n="4" facs="tcp:165171:4"/>
+            <p> that there is a Levelling deſign carrying on, dangerous to the Common-wealth, it is too apparent, and howbeit, but ſew are acquainted with the bottome of the work, yet ma<g ref="char:EOLhyphen"/>ny are, much uſe of women as well as men: ſome to dig, others to dream, ſome to raiſe ſedition and hurliburlies, in City, Town, and Country, others to cry out againſt Ty<g ref="char:EOLhyphen"/>rannie, and for liberty. And all this is to effect-one thing, which is as they ſay themſelves, thus.</p>
+            <p n="1">1. They will have no man to call any thing his: for it is tyranny that a man ſhould have any proper Land; particu<g ref="char:EOLhyphen"/>lar propriety is devilliſh, the myſtery of Egyptian bondage a deſtroying of the creation, a lifter up of the proud cove<g ref="char:EOLhyphen"/>tous fleſh; a bringer in of the curſe ag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, a mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tall ene<g ref="char:EOLhyphen"/>my to the Spirit, and that which hath brought in all miſery upon the creature. 2. Labourers and ſuch as are called poor people, they ought not to work for any Land lord, or for any that is lifted up above others. He that works for another, either for wages, or to pay his rent, workes unrigh<g ref="char:EOLhyphen"/>teouſly lifts up the curſe, and by his labours brings the cre<g ref="char:EOLhyphen"/>ation under bondage, and the hand of the Lord ſhall be a<g ref="char:EOLhyphen"/>gainſt ſuch labourers. Again, they ſay, it is a tyrannicall u<g ref="char:EOLhyphen"/>ſurpation, an incroachment of Lords of Mannors, to lay Fines and other ſervices upon their Tenants. When as by right they are as free as themſelves. 3. Levellers do not allow, neither will they have any buying or ſelling no mar<g ref="char:EOLhyphen"/>kets to be kept, nor any civill trading at all: for to do ſo it is to take the beaſts mark: when a man hath need of any corn or catle, he is to take the ſame from the next ſtore houſe he meets with. 4. It is another doctrine of theirs, contrary to the Law o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, of Nature, and nations, that no man is to be put to death for murder, or any unrighteous crime whatſoever: nor to be impriſoned or punniſhed any way; onely ſuch as are to work and eat their own bread; and he
+<pb n="5" facs="tcp:165171:4"/>or they that ſhall inflict any other punniſhment upon fel<g ref="char:EOLhyphen"/>low creatures, is an unrighteous actor in the creation: for it is a mighty diſhonour to our maker, that one part of the creation ſhould deſtroy another. Again, he that will rule o<g ref="char:EOLhyphen"/>ver, impriſon, oppreſſe, and kill his fellow creatures under whatſoever pretence, is a deſtroyer of the Creation, and an actor of the curſe, and walkes contrary to the rule of righ<g ref="char:EOLhyphen"/>teouſneſſe. 5, If their deſign hold, they will ſo Levell the nation, that there ſhalbe no corporations, patents, Charters throughout the Realm, in any city or Town, as ſome to be free, others not: There ſhall not be Mayors, Bayliffs, Alder<g ref="char:EOLhyphen"/>men, Common-councell men, nor any Judge or Juſtice of Peace left amongſt us. Theſe as the reliques of conqueſt and Tyranny, they will pluck up by the roots. 6. For our Tearms and Lawyers (whom they term the Vermine and Caterpillers of this Common-wealth:) hear what they ſay; would it not be a notable booty to the Souldiers, when ſo many cheating Lawyers are together at the term, to drive them out, or elſe ſtrip their long taild gowns over the ears: O Souldiers, you could never do a better piece of ſervice then to put down all the Lawyers and all their Courts, with all Patents, Grants, Records, &amp;c. and ſuffer not one Term more; and we in the Country will aſſiſt you with what power we can: ſo that let us acquit our ſelves like men and bee no more ſlaves: this were an excellent worke in<g ref="char:EOLhyphen"/>deed.</p>
+            <p>To theſe therefore are their Emiſſaries ſpecially ſent; to raiſe the ſervant againſt the maſter; The Tenant againſt the Land-lord; the buyer againſt the ſeller; the borrower a<g ref="char:EOLhyphen"/>ganiſt the lender, the poor againſt the rich, and for encou<g ref="char:EOLhyphen"/>ragement every begger ſhall be ſet on Horſe-back.</p>
+            <p>And this was no other but what the German Levellers did, and by publiſhing ſo much, ſuch as had little means of
+<pb n="6" facs="tcp:165171:5"/>their own, and all their hope was upon others, moſt readily received it.</p>
+            <p>But you heard them ſay, they approvd not of this Level<g ref="char:EOLhyphen"/>ling, unleſſe there did proceed an aſſent from all the people: Here is a cloak ſo thin that a man may ſee thorow it; As if theſe men did not know and love Figures, though they are ignorant of other learning, and generally hate it. All muſt be underſtood moſt reſtrictively, that is the poor Commo<g ref="char:EOLhyphen"/>ner for rich men, and ſuch as have Lands, and eſtates, and claim a propriety in things, they do declare and proteſt a<g ref="char:EOLhyphen"/>gainſt; for having exerciſed Tranny oppreſſion and cruelty, upon their fellow brethren, and free Commoners of this na<g ref="char:EOLhyphen"/>tion. Now who makes queſtion but this ALL, will aſſent to the equalling mens eſtates, and taking away the right and title that every man hath to what is his own. And then as the law ſayth; <hi>Fundamento deſiciente omne rerum.</hi> And Eng<g ref="char:EOLhyphen"/>land may ſay with the Poet.</p>
+            <lg>
+               <l>Englands fearfull fate is come, this day's our laſt;</l>
+               <l>We once were Engliſh, and fair this Iſland was;</l>
+               <l>But Englands glory now, her joy and bliſſe is gon,</l>
+               <l>Our Country ruin'd by Levellers alt's undone,</l>
+            </lg>
+            <p>In our diſcovery we ſhall now in the next place take no<g ref="char:EOLhyphen"/>tice, what theſe men ſay of themſelves, for their peaceable<g ref="char:EOLhyphen"/>neſſe, as to reconcile differences and to heal all breaches on all ſides, we bleſs God (ſay they) our conſciences are clear adding affliction to affliction, having ever labored from the beginning of our diſtractions to compoſe &amp; reconcile them and ſhould eſteem it as the crown of all our temporal feli<g ref="char:EOLunhyphen"/>city, that yet we might be inſtruments in procuring the peace of this Common-wealth, the Land of our nativity. Beſides their agreement is tendred as a Peace-off<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring; and this Scripture eſpecial they aſſume to themſelvs, and apply t to their practice, <hi>bleſsed are the peace-makers.</hi>
+            </p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
